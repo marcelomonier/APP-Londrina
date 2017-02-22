@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gasolina ou Álcool</string>
+    <string name="gas">É melhor colocar gasolina.</string>
+    <string name="alcool">É melhor colocar álcool.</string>
+</resources>
